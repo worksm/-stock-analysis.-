@@ -10,7 +10,7 @@ When comparing the stock analysis the refactored code allows the executable to r
 
 ![Refactored_Code.PNG](https://github.com/worksm/-stock-analysis.-/blob/18a815d9dcc8e48ee83573e93a0d56df72d2d7c8/Refactored_Code.png) 
 
-vs single variables when compiling the output results and adding a for loop when outputting data to the final ‘All Stocks Analysis’ spreadsheet, we are able to provide more sophisticated code, resulting in long-term flexibility of use for the client. These changes resulted in quicker execution of the program.
+vs. single variables when compiling the output results and adding a for loop when outputting data to the final ‘All Stocks Analysis’ spreadsheet, we are able to provide more sophisticated code, resulting in long-term flexibility of use for the client. These changes resulted in quicker execution of the program.
 
 2017 Refactored Results
 
