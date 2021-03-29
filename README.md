@@ -4,13 +4,16 @@
 Provide the client with more dynamic code, ensuring scalability with any additional stocks added to the dataset. These changes will ensure an accurate and timely executable no matter the size of the dataset.  
 
 ## Results: 
-When comparing the stock analysis the refactored code allows the executable to run more efficiently. By creating 3 additional arrays
+When comparing the stock analysis the refactored code allows the executable to run more efficiently. By creating 3 arrays, 
 
 ![Refactored_Code2.PNG](https://github.com/worksm/-stock-analysis.-/blob/4a82e9404fe87acf0544ba71c6a146f2483d39e6/Refactored_Code2.png)
 
-![Refactored_Code.PNG](https://github.com/worksm/-stock-analysis.-/blob/18a815d9dcc8e48ee83573e93a0d56df72d2d7c8/Refactored_Code.png) 
-
-vs. single variables when compiling the output results and adding a for loop when outputting data to the final ‘All Stocks Analysis’ spreadsheet, we are able to provide more sophisticated code, resulting in long-term flexibility of use for the client. These changes resulted in quicker execution of the program.
+ and adding a for loop to the output results code, 
+ 
+ ![Refactored_Code.PNG](https://github.com/worksm/-stock-analysis.-/blob/18a815d9dcc8e48ee83573e93a0d56df72d2d7c8/Refactored_Code.png) 
+ 
+ 
+we are able to provide more sophisticated code, resulting in long-term Macros use for the client. These changes resulted in quicker execution of the program when compared to the original code source.
 
 2017 Refactored Results
 
