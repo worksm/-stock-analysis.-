@@ -4,10 +4,7 @@
 Provide the client with more dynamic code, ensuring scalability with any additional stocks added to the dataset. These changes will ensure an accurate and timely executable no matter the size of the dataset.  
 
 ## Results: 
-When comparing the stock analysis the refactored code allows the executable to run more efficiently. By creating 3 additional arrays 
-
-![
-vs single variables when compiling the output results and adding a for loop when outputting data to the final ‘All Stocks Analysis’ spreadsheet, we are able to provide more sophisticated code, resulting in long-term flexibility of use for the client. These changes resulted in quicker execution of the program.
+When comparing the stock analysis the refactored code allows the executable to run more efficiently. By creating 3 additional arrays vs single variables when compiling the output results and adding a for loop when outputting data to the final ‘All Stocks Analysis’ spreadsheet, we are able to provide more sophisticated code, resulting in long-term flexibility of use for the client. These changes resulted in quicker execution of the program.
 
 2017 Refactored Results
 
