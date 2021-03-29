@@ -4,7 +4,9 @@
 Provide the client with more dynamic code, ensuring scalability with any additional stocks added to the dataset. These changes will ensure an accurate and timely executable no matter the size of the dataset.  
 
 ## Results: 
-When comparing the stock analysis the refactored code allows the executable to run more efficiently. By creating 3 additional arrays 
+When comparing the stock analysis the refactored code allows the executable to run more efficiently. By creating 3 additional arrays
+
+![Refactored_Code2.PNG](https://github.com/worksm/-stock-analysis.-/blob/4a82e9404fe87acf0544ba71c6a146f2483d39e6/Refactored_Code2.png)
 
 ![Refactored_Code.PNG](https://github.com/worksm/-stock-analysis.-/blob/18a815d9dcc8e48ee83573e93a0d56df72d2d7c8/Refactored_Code.png) 
 
